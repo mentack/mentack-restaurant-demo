@@ -1,3 +1,136 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-home",
+      "description": "A beautifully plated gourmet dish, representing the signature cuisine of the restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1676300183945-0815a081b11b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z291cm1ldCUyMGRpc2h8ZW58MHx8fHwxNzY3NzU4MDM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet dish"
+    },
+    {
+      "id": "about-preview",
+      "description": "A cozy corner of the restaurant's interior, showing warm lighting and elegant decor.",
+      "imageUrl": "https://images.unsplash.com/photo-1583354608715-177553a4035e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY3Nzc5MDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "atmosphere-preview",
+      "description": "The ambient dining area of the restaurant at dusk, filled with a warm, inviting glow.",
+      "imageUrl": "https://images.unsplash.com/photo-1766038844140-8fc8473b0b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkaW5pbmclMjBhcmVhfGVufDB8fHx8MTc2Nzc5NjkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining area"
+    },
+    {
+      "id": "signature-dish-1",
+      "description": "A close-up of a succulent grilled steak dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1611171711791-b34fa42e9fc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmlsbGVkJTIwc3RlYWt8ZW58MHx8fHwxNzY3Nzk2NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grilled steak"
+    },
+    {
+      "id": "signature-dish-2",
+      "description": "A vibrant and fresh seafood pasta dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1632778129004-f142ce499b3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzZWFmb29kJTIwcGFzdGF8ZW58MHx8fHwxNzY3Nzk2OTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seafood pasta"
+    },
+    {
+      "id": "signature-dish-3",
+      "description": "An artistically presented dessert, a chocolate lava cake.",
+      "imageUrl": "https://images.unsplash.com/photo-1609618299278-cc53dc850f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaG9jb2xhdGUlMjBkZXNzZXJ0fGVufDB8fHx8MTc2Nzc3MTg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate dessert"
+    },
+    {
+      "id": "menu-hero",
+      "description": "An overhead shot of a table laden with a variety of colorful dishes.",
+      "imageUrl": "https://images.unsplash.com/photo-1660066776992-9fc4f7ac544a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb29kJTIwc3ByZWFkfGVufDB8fHx8MTc2NzcyMTY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food spread"
+    },
+    {
+      "id": "category-starters",
+      "description": "A collection of small appetizer plates.",
+      "imageUrl": "https://images.unsplash.com/photo-1740987769844-24d2103fd191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcHBldGl6ZXIlMjBwbGF0ZXN8ZW58MHx8fHwxNzY3Nzk2OTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "appetizer plates"
+    },
+    {
+      "id": "category-mains",
+      "description": "A hearty main course dish, ready to be served.",
+      "imageUrl": "https://images.unsplash.com/photo-1644704265419-96ddaf628e71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWluJTIwY291cnNlfGVufDB8fHx8MTc2Nzc5NjkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "main course"
+    },
+    {
+      "id": "category-desserts",
+      "description": "A slice of decadent cheesecake on a plate.",
+      "imageUrl": "https://images.unsplash.com/photo-1707269561495-04dbddcb0705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGVlc2VjYWtlJTIwc2xpY2V8ZW58MHx8fHwxNzY3NzE4NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheesecake slice"
+    },
+    {
+      "id": "category-drinks",
+      "description": "A classic cocktail being poured into a glass.",
+      "imageUrl": "https://images.unsplash.com/photo-1730390772415-b1adf02fd736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2NrdGFpbCUyMGdsYXNzfGVufDB8fHx8MTc2NzcyMDA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cocktail glass"
+    },
+    {
+      "id": "about-hero",
+      "description": "A wide shot of the restaurant's sophisticated and welcoming exterior at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1621465558419-1deb2e51b530?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZXN0YXVyYW50JTIwZXh0ZXJpb3J8ZW58MHx8fHwxNzY3NzI0NjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant exterior"
+    },
+    {
+      "id": "about-chef",
+      "description": "A portrait of a professional chef smiling in a modern kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1706988328012-a89a4151283d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjBjaGVmfGVufDB8fHx8MTc2Nzc5NjkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional chef"
+    },
+    {
+      "id": "about-values",
+      "description": "A basket of fresh, colorful, locally sourced vegetables.",
+      "imageUrl": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmVzaCUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzY3NzM1NDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Close-up of a colorful salad.",
+      "imageUrl": "https://images.unsplash.com/photo-1723531055833-49fb132cbaab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb2xvcmZ1bCUyMHNhbGFkfGVufDB8fHx8MTc2Nzc4MDk5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colorful salad"
+    },
+    {
+      "id": "gallery-2",
+      "description": "A view of the restaurant's bar area.",
+      "imageUrl": "https://images.unsplash.com/photo-1763771757330-3212b518e31c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYXIlMjBhcmVhfGVufDB8fHx8MTc2Nzc5NjkyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bar area"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A detailed shot of a plated dessert.",
+      "imageUrl": "https://images.unsplash.com/photo-1679160923426-0449d8bb2b65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwbGF0ZWQlMjBkZXNzZXJ0fGVufDB8fHx8MTc2Nzc5NjA2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plated dessert"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Guests dining and enjoying the atmosphere.",
+      "imageUrl": "https://images.unsplash.com/photo-1763846403165-9d59615e7581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVvcGxlJTIwZGluaW5nfGVufDB8fHx8MTc2NzcyNTgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "people dining"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A chef garnishing a dish.",
+      "imageUrl": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGVmJTIwY29va2luZ3xlbnwwfHx8fDE3Njc3NDMwODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chef cooking"
+    },
+    {
+      "id": "gallery-6",
+      "description": "An exterior shot of the restaurant entrance during the day.",
+      "imageUrl": "https://images.unsplash.com/photo-1760894492871-217f4e4eafdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyZXN0YXVyYW50JTIwZW50cmFuY2V8ZW58MHx8fHwxNzY3NzExMTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant entrance"
+    },
+    {
+      "id": "reservations-hero",
+      "description": "An elegant table setting waiting for guests in the restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1608492024938-bbdd385d5175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0YWJsZSUyMHNldHRpbmd8ZW58MHx8fHwxNzY3Nzk2OTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "table setting"
+    },
+    {
+      "id": "contact-map",
+      "description": "A generic, stylized map showing a location pin.",
+      "imageUrl": "https://images.unsplash.com/photo-1542909359-544eb870c007?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYXAlMjBsb2NhdGlvbnxlbnwwfHx8fDE3Njc3Njc1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map location"
+    }
+  ]
 }
